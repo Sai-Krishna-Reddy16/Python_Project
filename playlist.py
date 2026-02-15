@@ -1,0 +1,13 @@
+music={
+    "ragile":"https://youtu.be/F3hHTG7l1mM?si=liahpwYaGQTyDplT",
+    "mobster":"https://youtu.be/XPeGLq3MACI?si=ErPge9JPOICdZiI0",
+    "monica":"https://youtu.be/2qCpY38ompo?si=syb1udmmG6sG1taG",
+    "danger":"https://youtu.be/4vrajmQSRMY?si=nOkeSTT1QjO51MXm",
+    "disco":"https://youtu.be/ReVGCvWIANA?si=NjzUCGCrwJyO1CsF",
+    "power":"https://youtu.be/OXHTlMPbX7o?si=0AZNTBOXSFflN1q7",
+    "firestorm":"https://youtu.be/FbXOsVByKmk?si=jEnvrjND18WeM8JS",
+    "coolie":"https://youtu.be/I67sQu6jA5k?si=kqQ8_UQ-l246OpeB",
+    "tanu":"https://youtu.be/q_h66d0DHlY?si=XQSe10mL1d7xcopP",
+    "neeli":"https://youtu.be/GTCwRMuIjzA?si=_KWmpYmUN20ioApz",
+    "namo":"https://youtu.be/dx4Teh-nv3A?si=VGxHM9sSW4wg2cD7"
+}
